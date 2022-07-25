@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PCGTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Personal\Unreal\city_sample\city_sample\Intermediate\Build\Win64\city_sampleEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"G:\Personal\Unreal\city_sample\city_sample\Plugins\PCGTool\Intermediate\Build\Win64\UnrealEditor\Development\PCGTool\Module.PCGTool.cpp.obj"
+"G:\Personal\Unreal\city_sample\city_sample\Plugins\PCGTool\Intermediate\Build\Win64\UnrealEditor\Development\PCGTool\Module.PCGTool.gen.cpp.obj"
+"G:\Personal\Unreal\city_sample\city_sample\Plugins\PCGTool\Intermediate\Build\Win64\UnrealEditor\Development\PCGTool\Default.rc2.res"
+/OUT:"G:\Personal\Unreal\city_sample\city_sample\Plugins\PCGTool\Intermediate\Build\Win64\UnrealEditor\Development\PCGTool\UnrealEditor-PCGTool.lib"

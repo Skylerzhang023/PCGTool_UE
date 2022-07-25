@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PCGTool.cpp.obj": [
+			"PCGToolEditorMode.cpp.obj",
+			"PCGToolEditorModeCommands.cpp.obj",
+			"PCGToolEditorModeToolkit.cpp.obj",
+			"PCGToolModule.cpp.obj",
+			"PCGToolInteractiveTool.cpp.obj",
+			"PCGToolSimpleTool.cpp.obj"
+		],
+		"Module.PCGTool.gen.cpp.obj": [
+			"PCGTool.init.gen.cpp.obj",
+			"PCGToolEditorMode.gen.cpp.obj",
+			"PCGToolInteractiveTool.gen.cpp.obj",
+			"PCGToolSimpleTool.gen.cpp.obj"
+		]
+	}
+}
