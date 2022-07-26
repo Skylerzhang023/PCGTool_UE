@@ -6,6 +6,11 @@
         "PCH": "g:\\personal\\unreal\\city_sample\\city_sample\\intermediate\\build\\win64\\city_sampleeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
         "Includes": [
             "g:\\personal\\unreal\\city_sample\\city_sample\\plugins\\pcgtool\\intermediate\\build\\win64\\unrealeditor\\development\\pcgtool\\definitions.pcgtool.h",
+            "g:\\personal\\unreal\\city_sample\\city_sample\\plugins\\pcgtool\\source\\pcgtool\\private\\pcgsplinecomponent.cpp",
+            "g:\\personal\\unreal\\city_sample\\city_sample\\plugins\\pcgtool\\source\\pcgtool\\private\\pcgsplinecomponent.h",
+            "g:\\epic\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\splinecomponent.h",
+            "g:\\epic\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\splinecomponent.generated.h",
+            "g:\\personal\\unreal\\city_sample\\city_sample\\plugins\\pcgtool\\intermediate\\build\\win64\\unrealeditor\\inc\\pcgtool\\pcgsplinecomponent.generated.h",
             "g:\\personal\\unreal\\city_sample\\city_sample\\plugins\\pcgtool\\source\\pcgtool\\private\\pcgtooleditormode.cpp",
             "g:\\personal\\unreal\\city_sample\\city_sample\\plugins\\pcgtool\\source\\pcgtool\\public\\pcgtooleditormode.h",
             "g:\\epic\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\tools\\uedmode.h",
